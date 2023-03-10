@@ -557,6 +557,12 @@
           "FSharp.Core": "[7.0.200, )"
         }
       },
+      "morphir.sdk.testing": {
+        "type": "Project",
+        "dependencies": {
+          "Expecto": "[9.0.4, )"
+        }
+      },
       "Argu": {
         "type": "CentralTransitive",
         "requested": "[6.0.0, )",
