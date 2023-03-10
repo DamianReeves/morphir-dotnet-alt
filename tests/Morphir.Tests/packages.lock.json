@@ -10,12 +10,12 @@
       },
       "Expecto": {
         "type": "Direct",
-        "requested": "[9.0.0, )",
-        "resolved": "9.0.0",
-        "contentHash": "8B9QvWJYcHu+DLrqgFAlc0bezuElU39wo/cfN/iapFsLbzP8w7Dlxc1qfxDJKE4MkbneR8u9xc8Xpk4+PmceKw==",
+        "requested": "[9.0.4, )",
+        "resolved": "9.0.4",
+        "contentHash": "n/4a8T3FKDmm7DY97yJD+Tr7T8IOAQLfGjySChwATUo3HIr0Ah1zXXOvpLXrkCi7crPN4O2QmeDDelc7/dUzJw==",
         "dependencies": {
           "FSharp.Core": "4.6.0",
-          "Mono.Cecil": "0.11.2"
+          "Mono.Cecil": "0.11.3"
         }
       },
       "FSharp.Core": {
@@ -103,8 +103,8 @@
       },
       "Mono.Cecil": {
         "type": "Transitive",
-        "resolved": "0.11.2",
-        "contentHash": "hZNAnXKQsOs/SZMFtT/e82/nA/iLgkeDy+sHD8xix4f0m9/3G0RNZplE1QHB+0n8QXq54jLqR/IPgVOkLapkyg=="
+        "resolved": "0.11.3",
+        "contentHash": "DNYE+io5XfEE8+E+5padThTPHJARJHbz1mhbhMPNrrWGKVKKqj/KEeLvbawAmbIcT73NuxLV7itHZaYCZcVWGg=="
       },
       "Newtonsoft.Json": {
         "type": "Transitive",
