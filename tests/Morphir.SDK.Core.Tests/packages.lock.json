@@ -538,7 +538,10 @@
         }
       },
       "morphir.sdk.core": {
-        "type": "Project"
+        "type": "Project",
+        "dependencies": {
+          "FSharp.Core": "[7.0.200, )"
+        }
       },
       "morphir.sdk.testing": {
         "type": "Project",

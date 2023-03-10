@@ -7,6 +7,9 @@
         <LangVersion>latestmajor</LangVersion>
     </PropertyGroup>
     <ItemGroup>
+        <PackageReference Include="FSharp.Core" />
+    </ItemGroup>
+    <ItemGroup>
         <Compile Include="AssemblyInfo.fs" />
         <Compile Include="Predef.fs" />
         <Compile Include="Comparison.fs" />
