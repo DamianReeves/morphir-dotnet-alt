@@ -19,6 +19,6 @@
     </ItemGroup>
     <ItemGroup>
         <ProjectReference Include="../../src/Morphir/Morphir.fsproj" />
-        <ProjectReference Include="..\..\src\Morphir.SDK.Testing\Morphir.SDK.Testing.fsproj" />
+        <ProjectReference Include="../../src/Morphir.SDK.Testing/Morphir.SDK.Testing.fsproj" />
     </ItemGroup>
 </Project>
